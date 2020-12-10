@@ -1,5 +1,5 @@
 # ZipScrumForum
-This is a minimal forum written in python with Flask. It supports only the bare minumum of features to allow discussions, including user accounts, threads, and comments.
+This is a forum written website in python with Flask. It supports features to allow discussions, including user accounts, threads, comments, messaging, a favorite link seciton, and a search feature. We worked in a team of 6 to develop this project over one week. I created the sarch feature which searches the titles and content of posts and comments.
 
 On first run, the default subforums will be created. Although custom subforums are not supported through any user interface, it is possible to modify forum/setup.py to create custom subforums.
 
